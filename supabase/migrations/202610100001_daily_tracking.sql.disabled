@@ -1,0 +1,4 @@
+-- Superseded, unapplied draft. The live public.food_logs schema was inspected
+-- and does not match the assumptions in this file. Do not apply it.
+-- Use 202610100002_tracker_support.sql only after reviewing its preflight SQL
+-- and the live RLS policies.
